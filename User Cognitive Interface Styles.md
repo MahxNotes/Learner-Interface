@@ -73,28 +73,28 @@ I will put what this means to me in context, (my global framing orientation), an
 
 ### G/S can be thought of as
 
-### Applicative 
+### *Applicative* 
 
 Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
 
 ### S/G an be thought of as
 
-### Explorative
+### *Explorative*
 
 Think: The lion surveys her environment, explores her options, takes opportunistic action.
 
 
 ### S/L an be thought of as
 
-### Deductive
+### *Deductive*
 
 Think: the Ox takes stock of her postion, deduces her most effiecint and effective path, takes the first step.
 
 
 ### G/O an be thought of as
 
-### Organic
+### *Organic*
 
 Think: the primate senses the organic relationships surrounding her, weighs her balances, swings into action.
 
