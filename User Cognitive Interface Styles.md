@@ -68,39 +68,42 @@ Linus explored in the same direction but less adventerously and less concretely.
 
 # My own cognitive organizational style is highly organic,
 
-## G/S can be thought of as
+### G/S can be thought of as
 
 ### Applicative 
 
 Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
 
-## S/G an be thought of as
+### S/G an be thought of as
 
 ### Explorative
 
 Think: The lion surveys her environment, explores her options, takes opportunistic action.
 
 
-## S/L an be thought of as
+### S/L an be thought of as
 
 ### Deductive
 
 Think: the Ox takes stock of her postion, deduces her most effiecint and effective path, takes the first step.
 
 
-## G/O an be thought of as
+### G/O an be thought of as
 
 ### Organic
 
 Think: the primate senses the organic relationships surrounding her, weighs her balances, swings into action.
 
+## Some Observations On Having An Organic Learning Style Preference
 
-Having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
+Having an organic learning style preference means having a global rather than a sequential orientation, and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
 
 In the technological world the dominate learning style of the civilization is based on a local-sequential cognitive oriention, framing with a narrow focus the “subject” in the forground of the picture, even at its very centre, with context and organic environment elements and relationships relegated to the usually obscure background.
 
-This makes people with a natural dispositon toward learning with a global oreintation to become more and more disadvantaged, in some ways marginalized, in some ways learning disabled.
+This makes people with a natural dispositon toward learning with a global oreintation to become more and more disadvantaged, in some ways marginalized, in some ways learning disabled. This is even more true for a global / global, organic style than a global / sequential, applicative style.
+
+Very slowly productivity apps are starting to appear that are beginning to be supportive of learning styles with global orientations. A few apps are even incorporating some elements and functions that support an organic learning style. There is quite a way to go.
 
 
 
