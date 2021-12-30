@@ -62,7 +62,13 @@ The digital computer is designed according to linear sequential learning princip
 
 Apple began the same but explored toward sequential/global and global/sequential user interface design elements.
 
-Linus explored in the same direction but less adventerously and less concretely.
+Linux explored in the same direction but less adventerously and less concretely than Apple.
+
+The worldwide web affected all learning styles very differently from the digital, reductionist and sequentialist styles of coding and computers in general. Hyperlinks and the structure they engender have a specially great affinity with the sequential / global style.
+
+The absence from structurally inherent backlinks in the present internet/web infrastructure prevents it from moving toward being more fully supportive of an organic learning style.
+
+We are now in the age of applications and application design. This design world is moving in all directions with respect to learner and user interface. This is especially, therefore, what we are now looking at.
 
 
 
