@@ -2,7 +2,7 @@
 
 All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but they tend to interfere with original creative thinking and research, (even while they can work with innovation and adaptations of pre-existing ideas).
 
-All user interfaces have to do with different learning style preferences.
+# All user interfaces have to do with different learning style preferences.
 
 - Learning style preferences in the context of user interface designs for apps and other computer related items are understood in terms of two learning process elements.
 - The first element of the learning process involves a style preference in cognitive orientation to a use challenge — preferences for how a problem or challenge is approached and framed.
@@ -12,14 +12,16 @@ All user interfaces have to do with different learning style preferences.
 - The term, ***global***, is used to correspond to a wide angle, context cognitive orientation.
 - And the term, ***sequential,*** is used to correspond to correspond to a narrow, singular subject, central meaningful figure, cognitive orientation.
 
-### Global / Sequential
+
+### Global / Sequential (G/S)
 
 - The Eagle-rule
 - A person may have a preference for approaching and framing a learning challenge with a wide angle lens, and so have a ***global*** cognitive orientation, while having a preference for organizing the processing of the information in a learning challenge with a ***sequential*** style.
 - Think of how a raptor, an eagle or a hawk surveys a scene from above with a wide angle lens, in order to focus in on a single point or figure on the ground and the immediate sequence of steps or moves available to that figure.
 - We will want to look at how this learning style preference might affect a user attempting to learn how to use a variety of different productivity apps.
+- 
 
-### Sequential / Global
+### Sequential / Global (S/G)
 
 The Lion-rule
 
@@ -35,37 +37,43 @@ Apple began the same but explored toward sequential/global and global/sequential
 
 Linus explored in the same direction but less adventerously and less concretely.
 
+
 # My own cognitive organizational style is highly organic,
 
-# G/S
+## G/S can be thought of as
 
-# Applicative
+### Applicative 
 
 Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
-# S/G
 
-# Explorative
+## S/G an be thought of as
+
+### Explorative
 
 Think: The lion surveys her environment, explores her options, takes opportunistic action.
 
-# S/L
 
-# Deductive
+## S/L an be thought of as
+
+### Deductive
 
 Think: the Ox takes stock of her postion, deduces her most effiecint and effective path, takes the first step.
 
-# G/O
 
-Organic
+## G/O an be thought of as
+
+### Organic
 
 Think: the primate senses the organic relationships surrounding her, weighs her balances, swings into action.
 
-having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
+
+Having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
 
 In the technological world the dominate learning style of the civilization is based on a local-sequential cognitive oriention, framing with a narrow focus the “subject” in the forground of the picture, even at its very centre, with context and organic environment elements and relationships relegated to the usually obscure background.
 
 This makes people with a natural dispositon toward learning with a global oreintation to become more and more disadvantaged, in some ways marginalized, in some ways learning disabled.
+
 
 # I do like archiving some things in hierarchies
 
@@ -75,11 +83,12 @@ Any and every person has some aptitude in the use of all four styles, even while
 
 Using alphabetically arranged and/or heiarchical tree structures for organizing long term storage of filed information is probably easiest for most people under the present user interface conditions.
 
-but they tend to interfere with original creative thinking and research,
+# but they tend to interfere with original creative thinking and research,
 
 For someone with an organic learning style, a global orientation and using associative processing, to be creative and to generate original thinking means to be learing style true and consistent. Trying to use productivity apps and organizational methods that are designed on sequential, reductionist, principles not only does not help or support organic creative and original thought, it hinders it.
 
-(even while they can work with innovation and adaptations of pre-existing ideas).
 
-Sequential orientations can, however, naturally produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
+# (even while they can work with innovation and adaptations of pre-existing ideas).
+
+Sequential orientations and applications and functions designed on the principle of sequential orientations can, however, naturally allow or support one to produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
 
