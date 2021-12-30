@@ -112,8 +112,6 @@ Think: the primate senses the organic relationships surrounding her, weighs her 
 
 ## Some Observations On Having An Organic Learning Style Preference
 
-Having an organic learning style preference means having a global rather than a sequential orientation, and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
-
 In the technological world the dominate learning style of the civilization is based on a local-sequential cognitive oriention, framing with a narrow focus the “subject” in the forground of the picture, even at its very centre, with context and organic environment elements and relationships relegated to the usually obscure background.
 
 This makes people with a natural dispositon toward learning with a global oreintation to become more and more disadvantaged, in some ways marginalized, in some ways learning disabled. This is even more true for a global / global, organic style than a global / sequential, applicative style.
