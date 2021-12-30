@@ -68,6 +68,9 @@ Linus explored in the same direction but less adventerously and less concretely.
 
 # My own cognitive organizational style is highly organic,
 
+I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
+
+
 ### G/S can be thought of as
 
 ### Applicative 
