@@ -36,12 +36,13 @@ The Lion-rule
 
 - A person may have a preference for approaching and framing a learning challenge with a narrow angle lens, and so have a ***sequential*** cognitive orientation, while having a preference for organizing the process of the information in a learning challenge with a ***global*** style.
 
-- Think of how a lion
+- Think of how a lion begins with a narrow lens, a very narrowly focused consciousness of its own location, in order to survey and assess globally all that is in its immediate territory and environment. In order to deliberate and execute a movement, (experiential learning), decision, the lion will not assess its options in a linear way alone but will assess its options in a fully lateral way as well. Its global processing of all its options will determine its next step.
 
-   - Of course there are objective reasons for the use of wide or narrow lenses. Just as this is true in framing pictures with a camera, it is true in framing learning challenges with the mind. Still, different people have different preferences which will come strongly into play in many different situations. One of those will likely be in choosing productivity apps.
    
    
 ### Sequential / Sequential (S/S)
+
+The Ox-rule
 
 - A person may have a preference for approaching and framing a learning challenge with a narrow angle lens, and so have a ***sequential*** cognitive orientation, while having a preference for organizing the process of the information in a learning challenge with a ***sequential*** style. The result will be a linear proccessing of the learning challenge.
 
@@ -54,7 +55,10 @@ The Lion-rule
 
 - Think of how a primate
 
+### An Additional General Remark on User Learning Styles
 
+   - Of course there are objective reasons for the use of wide or narrow lenses. Just as this is true in framing pictures with a camera, it is true in framing learning challenges with the mind. Still, different people have different preferences which will come strongly into play in many different situations. One of those will likely be in choosing productivity apps.
+   
 
 # Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style.
 
