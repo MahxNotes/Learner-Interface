@@ -2,9 +2,11 @@
 
 I will begin with a conversational paragraph on this subject. I will then expand each prase or sentence of that paragraph with more content information.
 
+
 # Conversational Paragraph
 
 All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but they tend to interfere with original creative thinking and research, (even while they can work with innovation and adaptations of pre-existing ideas).
+
 
 # All user interfaces have to do with different learning style preferences.
 
@@ -53,6 +55,7 @@ The Lion-rule
 - Think of how a primate
 
 
+
 # Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style.
 
 The digital computer is designed according to linear sequential learning principles. Microsoft, the first most successful user interface followed suit and built its interface in line with its linear sequential software.
@@ -60,6 +63,7 @@ The digital computer is designed according to linear sequential learning princip
 Apple began the same but explored toward sequential/global and global/sequential user interface design elements.
 
 Linus explored in the same direction but less adventerously and less concretely.
+
 
 
 # My own cognitive organizational style is highly organic,
@@ -99,6 +103,7 @@ In the technological world the dominate learning style of the civilization is ba
 This makes people with a natural dispositon toward learning with a global oreintation to become more and more disadvantaged, in some ways marginalized, in some ways learning disabled.
 
 
+
 # I do like archiving some things in hierarchies
 
 Every aspect and function related to learning has its own characteristics that give it a greater affinity, and therefore facility, toward being approached by one of the four learning styles.
@@ -107,9 +112,12 @@ Any and every person has some aptitude in the use of all four styles, even while
 
 Using alphabetically arranged and/or heiarchical tree structures for organizing long term storage of filed information is probably easiest for most people under the present user interface conditions.
 
+
+
 # but they tend to interfere with original creative thinking and research,
 
 For someone with an organic learning style, a global orientation and using associative processing, to be creative and to generate original thinking means to be learing style true and consistent. Trying to use productivity apps and organizational methods that are designed on sequential, reductionist, principles not only does not help or support organic creative and original thought, it hinders it.
+
 
 
 # (even while they can work with innovation and adaptations of pre-existing ideas).
