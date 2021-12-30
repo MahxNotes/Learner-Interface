@@ -19,7 +19,7 @@ All user interfaces have to do with different learning style preferences. Basica
 - A person may have a preference for approaching and framing a learning challenge with a wide angle lens, and so have a ***global*** cognitive orientation, while having a preference for organizing the processing of the information in a learning challenge with a ***sequential*** style.
 - Think of how a raptor, an eagle or a hawk surveys a scene from above with a wide angle lens, in order to focus in on a single point or figure on the ground and the immediate sequence of steps or moves available to that figure.
 - We will want to look at how this learning style preference might affect a user attempting to learn how to use a variety of different productivity apps.
-- 
+
 
 ### Sequential / Global (S/G)
 
