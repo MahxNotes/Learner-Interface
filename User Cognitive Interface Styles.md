@@ -5,7 +5,7 @@ I will begin with a conversational paragraph on this subject. I will then expand
 
 # Conversational Paragraph
 
-All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but they tend to interfere with original creative thinking and research, (even while they can work with innovation and adaptations of pre-existing ideas).
+All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while they can work with innovation and adaptations of pre-existing ideas).
 
 
 # All user interfaces have to do with different learning style preferences.
@@ -120,7 +120,7 @@ Using alphabetically arranged and/or heiarchical tree structures for organizing 
 
 
 
-# but they tend to interfere with original creative thinking and research,
+# but designs with sequential orientations tend to interfere, for me, with original creative thinking and research,
 
 For someone with an organic learning style, a global orientation and using associative processing, to be creative and to generate original thinking means to be learing style true and consistent. Trying to use productivity apps and organizational methods that are designed on sequential, reductionist, principles not only does not help or support organic creative and original thought, it hinders it.
 
