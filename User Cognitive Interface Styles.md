@@ -46,7 +46,7 @@ The Ox-rule
 
 - A person may have a preference for approaching and framing a learning challenge with a narrow angle lens, and so have a ***sequential*** cognitive orientation, while having a preference for organizing the process of the information in a learning challenge with a ***sequential*** style. The result will be a linear proccessing of the learning challenge.
 
-- Think of how an ox
+- Think of how an ox orientates its thought and mind to the point where it is standing and thinks from that point. If there is a goal, what is the most direct way to take to get to that goal? If there are obsticals, what is the most direct and efficient path around the obstical or through the obstical? What is the first step and the next step after to be taken from this starting point to most effectively utilize the full resources of a whole field?
 
 
 ### Global / Global (G/G)
