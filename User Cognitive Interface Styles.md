@@ -78,7 +78,7 @@ We are now in the age of applications and application design. This design world 
 
 
 
-# My own cognitive organizational style is highly organic,
+# My own cognitive organizational style is highly organic, having a global rather than a sequential orientation, and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
 
 I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
 
