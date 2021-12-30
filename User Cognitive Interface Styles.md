@@ -105,8 +105,9 @@
  
  Think: the primate senses the organic relationships surrounding her, weighs her balances, swings into action.
  
- ## ](https://github.com/MahxNotes/Learner-Interface/blob/main/User%20Cognitive%20Interface%20Styles.md#some-observations-on-having-an-organic-learning-style-preference)[Some Observations On Having An Organic Learning Style Preference
-
+ 
+ 
+ ## Some Observations On Having An Organic Learning Style Preference
 
 In the technological world the dominate learning style of the civilization is based on a local-sequential cognitive oriention, framing with a narrow focus the “subject” in the forground of the picture, even at its very centre, with context and organic environment elements and relationships relegated to the usually obscure background.
 
