@@ -6,6 +6,10 @@
  # Conversational Paragraph
 
  All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while they can work with innovation and adaptations of pre-existing ideas).
+ 
+ ...
+ 
+ FILE CONTENTS
 
 
  # All user interfaces have to do with different learning style preferences.
