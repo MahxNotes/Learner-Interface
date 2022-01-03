@@ -137,3 +137,24 @@ This makes people with a natural dispositon toward learning with a global oreint
  # (even while they can work with innovation and adaptations of pre-existing ideas).
 
  Sequential orientations and applications and functions designed on the principle of sequential orientations can, however, naturally allow or support one to produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
+ 
+ 
+ 
+ # End Thoughts and Beginning Thoughts On User Learning Styles
+ 
+ The following are end thoughts for this introductory section. They are beginning thoughts for a planned for evaluation of some productivity apps to follow.
+
+In using the model introduced above as a means of evaluating various productivity apps, it is assumed to be clear that every individual possess their own experiential learning style characteristics. I believe that any attempt to profile people as different types of learners is a dangerous mistake. Not only does all stereotyping have great potential to harm people, it ends up being a wasted effort. When individuals are targeted by organized groups using typology models the differences between individuals will, in the end, always end up being far more significant than the factors used to type them into categories. 
+
+The model I am using here is meant to provide a window into commanalities that different people share that can be understood in relation to devices, programs, applications and other systems that they share use of in common.
+
+Different individuals will have different histories with regard to the use and aptitude for using the four different approaches to experiential learning described in this model.
+
+While there is evidence that people have preferences for one style over others from childhood, some people will be trained or educated in ways that make them highly capable in the use of more than one style or method of engaging experiential learning challenges. 
+
+Through training, some people may be more capable in the use of one of the styles that would not be their natural preference than  they are in the use of that style that is, or would have been, more natural to them. This is analoguous to how someone who is naturally left handed might be trained to be better. at being right handed than left handed.
+
+To continue with this analogy, some people will prove more naturally “ambidextrous” than others when it comes to these expereintial learning styles. While some people will prove to be very highly dependent on their naturally prefered experiential learning style.
+
+Again, the aim of this work is not to identify the individual characteristics of different people as learners engaging with differnt user interfaces. The aim of this work is to do research into what information about this subject can be provided to people to help them identify for themselves what works best for them as users learning to use, and making use of, various productivity apps, and related tools.
+
