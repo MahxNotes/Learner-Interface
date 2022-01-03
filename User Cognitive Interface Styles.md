@@ -129,7 +129,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 
 
- [# 4. I do like archiving some things in hierarchies](...archiving some things in hierarchies)    
+ (#4.-I-do-like-archiving-some-things-in-hierarchies)  
 
  Every aspect and function related to learning has its own characteristics that give it a greater affinity, and therefore facility, toward being approached by one of the four learning styles.
 
