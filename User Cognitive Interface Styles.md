@@ -14,7 +14,7 @@
 > 1. All user interfaces have to do with...    
 > 2. ...for example, ...built on a linear sequential... style    
 > 3. (a) style (that) is highly organic...   
-> 4. [...archiving some things in hierarchies    ](#4.-I-do-like-archiving-some-things-in-hierarchies)
+> 4. [...archiving some things in hierarchies](#4.-I-do-like-archiving-some-things-in-hierarchies)    
 > 5. (interference) with original creative thinking and research    
 > 6. 
 
