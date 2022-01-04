@@ -162,6 +162,9 @@ This makes people with a natural dispositon toward learning with a global oreint
  
  END OF COMMENTS ON THE CONVERSATIONAL PARAGRAPH
  
+ To [CONTENTS](#CONTENTS) 
+ 
+ ...
  
  # <a name="End-And-Beginning-Thoughts"></a>End And Beginning Thoughts
  ## End Thoughts and Beginning Thoughts On User Learning Styles
