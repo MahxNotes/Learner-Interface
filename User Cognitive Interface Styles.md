@@ -38,7 +38,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
  ### Global / Sequential <a name="(G/S)"></a>(G/S)
 
- - The Eagle-rule
+ - [The-Eagle-rule](#The-Eagle-rule) 
 
  - A person may have a preference for approaching and framing a learning challenge with a wide angle lens, and so have a ***global*** cognitive orientation, while having a preference for organizing the processing of the information in a learning challenge with a ***sequential*** style.
 
@@ -102,7 +102,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
  ### [G/S](#(G/S)) can be thought of as
 
- ### *Applicative* 
+ ### <a name="The-Eagle-rule"></a>(*Applicative* 
 
  Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
