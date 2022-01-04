@@ -47,7 +47,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  - We will want to look at how this learning style preference might affect a user as a learner attempting to learn how to use a variety of different productivity apps.
 
 
- ### Sequential / Global (S/G)
+ ### Sequential / Global <a name="(S/G)"></a>(S/G)
 
  [The-Lion-rule](#The-Lion-rule) 
 
@@ -57,7 +57,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
 
 
- ### Sequential / Sequential (S/S)
+ ### Sequential / Sequential <a name="(S/S)"></a>(S/S)
 
  [The-Ox-rule](#The-Ox-rule) 
 
@@ -66,7 +66,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  - Think of how an ox orientates its thought and mind to the point where it is standing and thinks from that point. If there is a goal, what is the most direct way to take to get to that goal? If there are obsticals, what is the most direct and efficient path around the obstical or through the obstical? What is the first step and the next step after to be taken from this starting point to most effectively utilize the full resources of a whole field?
 
 
- ### Global / Global (G/G)
+ ### Global / Global <a name="(G/G)"></a>(G/G)
  
   [The-Primate-rule](#The-Primate-rule) 
 
@@ -111,7 +111,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
  
- ### [S/G](#(S/G)) can be thought of as <a name="The-Lion-rule"></a>gsequentially assessing for the purpose of globally acting in a cognitive process.
+ ### [S/G](#(S/G)) can be thought of as <a name="The-Lion-rule"></a>sequentially assessing for the purpose of globally acting in a cognitive process.
 
  ### *Laterally Explorative*
 
