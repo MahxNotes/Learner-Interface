@@ -22,10 +22,11 @@
 
    
 <br/><br/> 
-
+<br/><br/> 
 
 # <a name="Interfaces"></a>Interfaces
  ## 1. All user interfaces have to do with different learning style preferences.
+Full [Conversational-Paragraph](#Conversational-Paragraph) 
 
  - Learning style preferences in the context of user interface designs for apps and other computer related items are here understood in terms of two learning process elements.
  - The first element of the learning process involves a style preference in cognitive orientation to a use challenge — preferences for how a problem or challenge is approached and framed.
@@ -82,6 +83,7 @@
 
 # <a name="Linear-Sequential"></a>Linear Sequential
  ## 2. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style.
+Full [Conversational-Paragraph](#Conversational-Paragraph) 
 
  The digital computer is designed according to linear sequential learning principles. Microsoft, the first most successful user interface followed suit and built its interface in line with its linear sequential software.
 
@@ -94,6 +96,7 @@
 
 # <a name="Organic-Style"></a>Organic Style
  ## 3. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation, with a preference to process thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
+Full [Conversational-Paragraph](#Conversational-Paragraph) 
 
  I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
 
@@ -141,6 +144,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 # <a name="Archiving-With-Hierarchies"></a>Archiving With Hierarchies
 ## 4. I do like archiving some things in hierarchies.    
+Full [Conversational-Paragraph](#Conversational-Paragraph) 
 
  Every aspect and function related to learning has its own characteristics that give it a greater affinity, and therefore facility, toward being approached by one of the four learning styles.
 
@@ -152,6 +156,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 # <a name="Interference-With-Thinking"></a>Interference With Thinking
  ## 5. but designs with sequential orientations tend to interfere, for me, with original creative thinking and research,
+Full [Conversational-Paragraph](#Conversational-Paragraph) 
 
  For someone with an organic learning style, a global orientation and using associative processing, to be creative and to generate original thinking means to be learing style true and consistent. Trying to use productivity apps and organizational methods that are designed on sequential, reductionist, principles not only does not help or support organic creative and original thought, it hinders it.
 
