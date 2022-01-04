@@ -112,6 +112,8 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
  
  ### [S/G](#(S/G)) can be thought of as <a name="The-Lion-rule"></a>sequentially assessing for the purpose of globally acting in a cognitive process.
+ 
+ It can be characterized as
 
  ### *Laterally Explorative*
 
@@ -120,6 +122,8 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
 
  ### [S/S](#(S/S)) can be thought of as <a name="The-Ox-rule"></a>sequentially oriented for the purpose of deducing the next optimal linear step in a cognitive process.
+ 
+ It can be characterized as
 
  ### *Linearly Deductive*
 
@@ -127,6 +131,8 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
 
 ### [G/G](#(G/G)) can be thought of as  <a name="The-Primate-rule"></a>globally oriented for the purpose of globally assessing and analyzing the next best balanced step in a cognitive process.
+
+It can be characterized as
 
  ### *Essence Organic*
  
