@@ -154,7 +154,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 
 
-# <a name="Sequential-Orientations-And-Innovation"></a>Sequential Orientations And Innovation    
+# <a name="Sequential-Orientations-And-Innovation"></a>Sequential-Orientations-And-Innovation
  ## (even while they can work with innovation and adaptations of pre-existing ideas).
 
  Sequential orientations and applications and functions designed on the principle of sequential orientations can, however, naturally allow or support one to produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
