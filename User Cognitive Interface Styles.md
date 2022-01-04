@@ -36,8 +36,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  - The term, ***global***, is used to correspond to a wide angle, context cognitive orientation.
  - And the term, ***sequential,*** is used to correspond to correspond to a narrow, singular subject, central meaningful figure, cognitive orientation.
 
-
- ### Global / Sequential (G/S)
+ ### Global / Sequential <a name="(G/S)"></a>(G/S)
 
  - The Eagle-rule
 
@@ -101,7 +100,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
 
 
- ### G/S can be thought of as
+ ### [G/S]((G/S)) can be thought of as
 
  ### *Applicative* 
 
