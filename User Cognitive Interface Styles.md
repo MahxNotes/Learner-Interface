@@ -92,7 +92,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
 Apple began in the same way but then explored toward sequential/global and global/sequential user interface design elements in productivity applications. 
 
-The absence of structurally inherent backlinks in the present internet/web infrastructure may have dampened the imagination of developers of productivity apps, once they finally started to see the internet as a possible model for productivity apps.
+The absence of structurally inherent backlinks in the present internet/web infrastructure may have dampened the imagination of developers of productivity apps, once they finally started to see the hyperlinks of the internet as an inspiriation for possible models for productivity apps.
 
  We are now fully in the age of applications and application design. This design world is moving in all directions with respect to learner and user interface. This is especially, therefore, what we are now looking at in this project.
 
