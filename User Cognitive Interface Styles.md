@@ -148,7 +148,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 
 # <a name="Interference-With-Thinking"></a>Interference-With-Thinking
- # 5. but designs with sequential orientations tend to interfere, for me, with original creative thinking and research,
+ ## 5. but designs with sequential orientations tend to interfere, for me, with original creative thinking and research,
 
  For someone with an organic learning style, a global orientation and using associative processing, to be creative and to generate original thinking means to be learing style true and consistent. Trying to use productivity apps and organizational methods that are designed on sequential, reductionist, principles not only does not help or support organic creative and original thought, it hinders it.
 
