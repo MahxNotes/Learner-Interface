@@ -163,7 +163,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
  Any and every person has some aptitude in the use of all four styles, even while their personal preference and strongest aptitude will likely be with one style only.
 
- Using alphabetically arranged and/or heiarchical tree structures for organizing long term storage of filed information is probably easiest for most people under the present user interface conditions.
+ Using alphabetically arranged and/or heiarchical tree structures for organizing long term storage of filed information is probably easiest for most people under the present user interface conditions based on sequential cognitive orientation.
 
 <br/><br/> 
 
