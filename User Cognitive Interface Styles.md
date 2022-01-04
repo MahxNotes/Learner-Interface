@@ -12,9 +12,9 @@
  FILE CONTENTS
 
 > 1. [Interfaces](#Interfaces)     
-> 2. [Lnear-Sequential](#Lnear-Sequential)  
-> 3. (a) style (that) is highly organic...   
-> 4. [...archiving some things in hierarchies](#4.-I-do-like-archiving-some-things-in-hierarchies)    
+> 2. [Linear-Sequential](#Linear-Sequential)  
+> 3. [Organic-Style](#Organic-Style) 
+> 4. [Archiving-With-Hierarchies](#Archiving-With-Hierarchies)    
 > 5. (interference) with original creative thinking and research    
 > 6.
 
@@ -74,7 +74,7 @@
  Of course there are objective reasons for the use of wide or narrow lenses. Just as this is true in framing pictures with a camera, it is true in framing learning challenges with the mind. Still, different people have different preferences which will come strongly into play in many different situations. One of those will likely be in choosing productivity apps.
 
 
-# <a name="Lnear-Sequential"></a>Lnear-Sequential
+# <a name="Linear-Sequential"></a>Linear-Sequential
  # 2. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style.
 
  The digital computer is designed according to linear sequential learning principles. Microsoft, the first most successful user interface followed suit and built its interface in line with its linear sequential software.
@@ -86,6 +86,7 @@
 
 
 
+# <a name="Organic-Style"></a>Organic-Style
  # 3. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation, and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
 
  I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
@@ -130,8 +131,10 @@ This makes people with a natural dispositon toward learning with a global oreint
  Very slowly productivity apps are starting to appear that are beginning to be supportive of learning styles with global orientations. A few apps are even incorporating some elements and functions that support an organic learning style. There is quite a way to go.
 
 
-(#4.-I-do-like-archiving-some-things-in-hierarchies)   
- (#4.-I-do-like-archiving-some-things-in-hierarchies)  
+
+
+# <a name="OArchiving-With-Hierarchies"></a>Archiving-With-Hierarchies
+#4. I do like archiving some things in hierarchies.    
 
  Every aspect and function related to learning has its own characteristics that give it a greater affinity, and therefore facility, toward being approached by one of the four learning styles.
 
