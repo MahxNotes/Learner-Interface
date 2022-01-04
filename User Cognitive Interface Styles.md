@@ -9,8 +9,8 @@
  
  ...
  
+# <a name="CONTENTS"></a>CONTENTS
 
-[CONTENTS](#CONTENTS) 
  
 
 > 1. [Interfaces](#Interfaces)     
@@ -183,4 +183,5 @@ To continue with this analogy, some people will prove more naturally “ambidext
 
 Again, the aim of this work is not to identify the individual characteristics of different people as learners engaging with differnt user interfaces. The aim of this work is to do research into what information about this subject can be provided to people to help them identify for themselves what works best for them as users learning to use, and making use of, various productivity apps, and related tools.
 
- # TO <a name="CONTENTS"></a>Interfaces
+ 
+To [CONTENTS](#CONTENTS) 
