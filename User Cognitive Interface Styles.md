@@ -9,20 +9,22 @@
  
  ...
  
- FILE CONTENTS
+ ## <a name="FILE CONTENTS"></a>FILE CONTENTS
+ 
 
 > 1. [Interfaces](#Interfaces)     
 > 2. [Linear-Sequential](#Linear-Sequential)  
 > 3. [Organic-Style](#Organic-Style) 
 > 4. [Archiving-With-Hierarchies](#Archiving-With-Hierarchies)    
-> 5. (interference) with original creative thinking and research    
-> 6.
+> 5. [Interference-With-Thinking](#Interference-With-Thinking) 
+> 6. [Sequential-Orientations-And-Innovation](Sequential-Orientations-And-Innovation)
+> 7. [End-And-Beginning-Thoughts](End-And-Beginning-Thoughts)
 
 
 # <a name="Interfaces"></a>Interfaces
  ## 1. All user interfaces have to do with different learning style preferences.
 
- - Learning style preferences in the context of user interface designs for apps and other computer related items are understood in terms of two learning process elements.
+ - Learning style preferences in the context of user interface designs for apps and other computer related items are here understood in terms of two learning process elements.
  - The first element of the learning process involves a style preference in cognitive orientation to a use challenge — preferences for how a problem or challenge is approached and framed.
  - The second element of the learning process involves preferences for cognitive organizational styles in the learning involved in the information processing in the actual use-process.
  - Stated briefly and simply, we are talking about how different people prefer to approach a new learning challenge and how they prefer to organize handling the information involved.
@@ -133,7 +135,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 
 
-# <a name="OArchiving-With-Hierarchies"></a>Archiving-With-Hierarchies
+# <a name="Archiving-With-Hierarchies"></a>Archiving-With-Hierarchies
 ## 4. I do like archiving some things in hierarchies.    
 
  Every aspect and function related to learning has its own characteristics that give it a greater affinity, and therefore facility, toward being approached by one of the four learning styles.
@@ -144,21 +146,24 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 
 
+# <a name="Interference-With-Thinking"></a>Interference-With-Thinking
  # 5. but designs with sequential orientations tend to interfere, for me, with original creative thinking and research,
 
  For someone with an organic learning style, a global orientation and using associative processing, to be creative and to generate original thinking means to be learing style true and consistent. Trying to use productivity apps and organizational methods that are designed on sequential, reductionist, principles not only does not help or support organic creative and original thought, it hinders it.
 
 
-
- # (even while they can work with innovation and adaptations of pre-existing ideas).
+Sequential-Orientations-And-Innovation
+# <a name="Sequential-Orientations-And-Innovation"></a>Sequential-Orientations-And-Innovation    
+ ## (even while they can work with innovation and adaptations of pre-existing ideas).
 
  Sequential orientations and applications and functions designed on the principle of sequential orientations can, however, naturally allow or support one to produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
  
  
- CONCLUSION OF COMMENTS ON THE CONVERSATIONAL PARAGRAPH
+ END OF COMMENTS ON THE CONVERSATIONAL PARAGRAPH
  
  
  
+ # <a name="End-And-Beginning-Thoughts"></a>End-And-Beginning-Thoughts    
  # End Thoughts and Beginning Thoughts On User Learning Styles
  
  The following are end thoughts for this introductory section. They are beginning thoughts for a planned for evaluation of some productivity apps to follow.
@@ -177,3 +182,4 @@ To continue with this analogy, some people will prove more naturally “ambidext
 
 Again, the aim of this work is not to identify the individual characteristics of different people as learners engaging with differnt user interfaces. The aim of this work is to do research into what information about this subject can be provided to people to help them identify for themselves what works best for them as users learning to use, and making use of, various productivity apps, and related tools.
 
+[FILE-CONTENTS](FILE-CONTENTS)
