@@ -20,6 +20,7 @@
 > 5. [Interference-With-Thinking](#Interference-With-Thinking) 
 > 6. [Sequential-Orientations-And-Innovation](#Sequential-Orientations-And-Innovation)  
 > 7. [End-And-Beginning-Thoughts](#End-And-Beginning-Thoughts)  
+> 
 > 0. Full [Conversational-Paragraph](#Conversational-Paragraph) 
    
 <br/><br/> 
