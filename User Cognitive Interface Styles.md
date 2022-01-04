@@ -102,7 +102,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
  ### [G/S](#(G/S)) can be thought of as
 
- ### <a name="The-Eagle-rule"></a>(*Applicative* 
+ ### <a name="The-Eagle-rule"></a>*Applicative* 
 
  Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
