@@ -5,7 +5,7 @@
 
  # Conversational Paragraph
 
- All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while they can work with innovation and adaptations of pre-existing ideas).
+ All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while tsequential cognitive style orientations  can work well with innovation and adaptations of pre-existing ideas).
  
  
    
@@ -161,7 +161,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 <br/><br/> 
 
 # <a name="Sequential-Orientations-And-Innovation"></a>Sequential-Orientations-And-Innovation
- ## 6. (even while they can work with innovation and adaptations of pre-existing ideas).
+ ## 6. (even while sequential cognitive style orientations can work well with innovation and adaptations of pre-existing ideas).
 
  Sequential orientations and applications and functions designed on the principle of sequential orientations can, however, naturally allow or support one to produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
  
@@ -177,7 +177,7 @@ This makes people with a natural dispositon toward learning with a global oreint
  # <a name="End-And-Beginning-Thoughts"></a>End And Beginning Thoughts
  ## End Thoughts and Beginning Thoughts On User Learning Styles
  
- The following are end thoughts for this introductory section. They are beginning thoughts for a planned for evaluation of some productivity apps to follow.
+ The following are end thoughts for this introductory file. They are beginning thoughts for a planned for evaluation of some productivity apps to follow.
 
 In using the model introduced above as a means of evaluating various productivity apps, it is assumed to be clear that every individual possess their own experiential learning style characteristics. I believe that any attempt to profile people as different types of learners is a dangerous mistake. Not only does all stereotyping have great potential to harm people, it ends up being a wasted effort. When individuals are targeted by organized groups using typology models the differences between individuals will, in the end, always end up being far more significant than the factors used to type them into categories. 
 
