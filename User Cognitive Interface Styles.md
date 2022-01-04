@@ -59,7 +59,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
  ### Sequential / Sequential (S/S)
 
- The Ox-rule
+ [The-Ox-rule](#The-Ox-rule) 
 
  - A person may have a preference for approaching and framing a learning challenge with a narrow angle lens, and so have a ***sequential*** cognitive orientation, while having a preference for organizing the process of the information in a learning challenge with a ***sequential*** style. The result will be a linear proccessing of the learning challenge.
 
@@ -67,6 +67,8 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
 
  ### Global / Global (G/G)
+ 
+  [The-Primate-rule](#The-Primate-rule) 
 
  - A person may have a preference for approaching and framing a learning challenge with a narrow angle lens, and so have a ***global*** cognitive orientation, while having a preference for organizing the process of the information in a learning challenge with a ***global*** style. The result will be an organic proccessing of the learning challenge, where the relationship between the elements are just as important as the elements themselves.
 
@@ -104,26 +106,27 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  
  It can be characterized as
 
- ### *Applicative* 
+ ### *Background Applicative* 
 
  Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
-### [S/G](#(S/G))
- ### S/G an be thought of as <a name="The-Lion-rule"></a>gsequentially assessing for the purpose of globally acting in a cognitive process.
 
- ### *Explorative*
+ ### [S/G](#(S/G)) can be thought of as <a name="The-Lion-rule"></a>gsequentially assessing for the purpose of globally acting in a cognitive process.
+
+ ### *Laterally Explorative*
 
  Think: The lion surveys her environment, explores her options, takes opportunistic action.
 
 
- ### S/L an be thought of as
 
- ### *Deductive*
+ ### [S/S](#(S/S)) can be thought of as <a name="The-Ox-rule"></a>sequentially oriented for the purpose of deducing the next optimal linear step in a cognitive process.
+
+ ### *Linearly Deductive*
 
  Think: the Ox takes stock of her postion, deduces her most effiecint and effective path, takes the first step.
 
 
- ### G/O an be thought of as
+### [G/G](#(G/G)) can be thought of as  <a name="The-Primate-rule"></a>globally oriented for the purpose of globally assessing and analyzing the next best balanced step in a cognitive process.
 
  ### *Organic*
  
