@@ -89,7 +89,7 @@
 
 
 
-# <a name="Organic-Style"></a>Organic-Style
+# <a name="Organic-Style"></a>Organic Style
  ## 3. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation, and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
 
  I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
@@ -136,7 +136,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 
 
-# <a name="Archiving-With-Hierarchies"></a>Archiving-With-Hierarchies
+# <a name="Archiving-With-Hierarchies"></a>Archiving With Hierarchies
 ## 4. I do like archiving some things in hierarchies.    
 
  Every aspect and function related to learning has its own characteristics that give it a greater affinity, and therefore facility, toward being approached by one of the four learning styles.
@@ -147,14 +147,14 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 
 
-# <a name="Interference-With-Thinking"></a>Interference-With-Thinking
+# <a name="Interference-With-Thinking"></a>Interference With Thinking
  ## 5. but designs with sequential orientations tend to interfere, for me, with original creative thinking and research,
 
  For someone with an organic learning style, a global orientation and using associative processing, to be creative and to generate original thinking means to be learing style true and consistent. Trying to use productivity apps and organizational methods that are designed on sequential, reductionist, principles not only does not help or support organic creative and original thought, it hinders it.
 
 
 
-# <a name="Sequential-Orientations-And-Innovation"></a>Sequential-Orientations-And-Innovation    
+# <a name="Sequential-Orientations-And-Innovation"></a>Sequential Orientations And Innovation    
  ## (even while they can work with innovation and adaptations of pre-existing ideas).
 
  Sequential orientations and applications and functions designed on the principle of sequential orientations can, however, naturally allow or support one to produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
@@ -163,7 +163,7 @@ This makes people with a natural dispositon toward learning with a global oreint
  END OF COMMENTS ON THE CONVERSATIONAL PARAGRAPH
  
  
- # <a name="End-And-Beginning-Thoughts"></a>End-And-Beginning-Thoughts
+ # <a name="End-And-Beginning-Thoughts"></a>End And Beginning Thoughts
  ## End Thoughts and Beginning Thoughts On User Learning Styles
  
  The following are end thoughts for this introductory section. They are beginning thoughts for a planned for evaluation of some productivity apps to follow.
