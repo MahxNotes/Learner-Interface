@@ -3,18 +3,14 @@
  This file is meant to serve as an initial introduction to this project. I will begin with a conversational paragraph on this subject. I will then expand each prase or sentence of that paragraph with more content information. The content information will lay out the basics of the cognitive learning style model I will be using for the analysis of user interfaces.
 
 
- # Conversational Paragraph
- 
+ # <a name="Conversational-Paragraph"></a>CConversational Paragraph
 
  All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation with a preference to process thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while tsequential cognitive style orientations  can work well with innovation and adaptations of pre-existing ideas).
- 
- 
    
    <br/><br/> 
 
 # <a name="CONTENTS"></a>CONTENTS
 
- 
 
 > 1. [Interfaces](#Interfaces)     
 > 2. [Linear-Sequential](#Linear-Sequential)  
@@ -163,6 +159,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 # <a name="Sequential-Orientations-And-Innovation"></a>Sequential Orientations And Innovation
  ## 6. (even while sequential cognitive style orientations can work well with innovation and adaptations of pre-existing ideas).
+Full [Conversational-Paragraph](#Conversational-Paragraph) 
 
  Sequential orientations and applications and functions designed on the principle of sequential orientations can, however, naturally allow or support one to produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
  
