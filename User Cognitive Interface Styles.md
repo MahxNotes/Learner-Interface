@@ -49,7 +49,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
  ### Sequential / Global (S/G)
 
- The Lion-rule
+ [The-Lion-rule](#The-Lion-rule) 
 
  - A person may have a preference for approaching and framing a learning challenge with a narrow angle lens, and so have a ***sequential*** cognitive orientation, while having a preference for organizing the process of the information in a learning challenge with a ***global*** style.
 
@@ -100,14 +100,16 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
 
 
- ### [G/S](#(G/S)) can be thought of as <a name="The-Eagle-Rule"></a>globally viewing, sequentially acting in a cognitive process.
+ ### [G/S](#(G/S)) can be thought of as <a name="The-Eagle-rule"></a>globally viewing for the purpose of sequentially acting in a cognitive process.
+ 
+ It can be characterized as
 
  ### *Applicative* 
 
  Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
-
- ### S/G an be thought of as
+### [S/G](#(S/G))
+ ### S/G an be thought of as <a name="The-Lion-rule"></a>gsequentially assessing for the purpose of globally acting in a cognitive process.
 
  ### *Explorative*
 
