@@ -6,7 +6,7 @@
  # Conversational Paragraph
  
 
- All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while tsequential cognitive style orientations  can work well with innovation and adaptations of pre-existing ideas).
+ All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation with a preference to process thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while tsequential cognitive style orientations  can work well with innovation and adaptations of pre-existing ideas).
  
  
    
@@ -97,7 +97,7 @@
 <br/><br/> 
 
 # <a name="Organic-Style"></a>Organic Style
- ## 3. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation, and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
+ ## 3. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation, with a preference to process thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
 
  I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
 
