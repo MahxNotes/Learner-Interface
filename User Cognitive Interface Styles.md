@@ -8,7 +8,7 @@
  All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while they can work with innovation and adaptations of pre-existing ideas).
  
  
-   <br/><br/> 
+   
    <br/><br/> 
 
 # <a name="CONTENTS"></a>CONTENTS
@@ -82,6 +82,7 @@
 
  Of course there are objective reasons for the use of wide or narrow lenses. Just as this is true in framing pictures with a camera, it is true in framing learning challenges with the mind. Still, different people have different preferences which will come strongly into play in many different situations. One of those will likely be in choosing productivity apps.
 
+<br/><br/> 
 
 # <a name="Linear-Sequential"></a>Linear Sequential
  ## 2. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style.
@@ -93,7 +94,7 @@
 
  We are now in the age of applications and application design. This design world is moving in all directions with respect to learner and user interface. This is especially, therefore, what we are now looking at.
 
-
+<br/><br/> 
 
 # <a name="Organic-Style"></a>Organic Style
  ## 3. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation, and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
@@ -140,7 +141,7 @@ This makes people with a natural dispositon toward learning with a global oreint
  Very slowly productivity apps are starting to appear that are beginning to be supportive of learning styles with global orientations. A few apps are even incorporating some elements and functions that support an organic learning style. There is quite a way to go.
 
 
-
+<br/><br/> 
 
 # <a name="Archiving-With-Hierarchies"></a>Archiving With Hierarchies
 ## 4. I do like archiving some things in hierarchies.    
@@ -151,26 +152,28 @@ This makes people with a natural dispositon toward learning with a global oreint
 
  Using alphabetically arranged and/or heiarchical tree structures for organizing long term storage of filed information is probably easiest for most people under the present user interface conditions.
 
-
+<br/><br/> 
 
 # <a name="Interference-With-Thinking"></a>Interference With Thinking
  ## 5. but designs with sequential orientations tend to interfere, for me, with original creative thinking and research,
 
  For someone with an organic learning style, a global orientation and using associative processing, to be creative and to generate original thinking means to be learing style true and consistent. Trying to use productivity apps and organizational methods that are designed on sequential, reductionist, principles not only does not help or support organic creative and original thought, it hinders it.
 
-
+<br/><br/> 
 
 # <a name="Sequential-Orientations-And-Innovation"></a>Sequential-Orientations-And-Innovation
- ## (even while they can work with innovation and adaptations of pre-existing ideas).
+ ## 6. (even while they can work with innovation and adaptations of pre-existing ideas).
 
  Sequential orientations and applications and functions designed on the principle of sequential orientations can, however, naturally allow or support one to produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
  
  
  END OF COMMENTS ON THE CONVERSATIONAL PARAGRAPH
  
+ <br/><br/> 
+ 
  To [CONTENTS](#CONTENTS) 
  
- ...
+ <br/><br/> 
  
  # <a name="End-And-Beginning-Thoughts"></a>End And Beginning Thoughts
  ## End Thoughts and Beginning Thoughts On User Learning Styles
@@ -191,5 +194,6 @@ To continue with this analogy, some people will prove more naturally “ambidext
 
 Again, the aim of this work is not to identify the individual characteristics of different people as learners engaging with differnt user interfaces. The aim of this work is to do research into what information about this subject can be provided to people to help them identify for themselves what works best for them as users learning to use, and making use of, various productivity apps, and related tools.
 
+ <br/><br/> 
  
 To [CONTENTS](#CONTENTS) 
