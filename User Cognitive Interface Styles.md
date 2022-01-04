@@ -5,7 +5,7 @@
 
  # <a name="Conversational-Paragraph"></a>Conversational Paragraph
 
- All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation with a preference to process thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while sequential cognitive style orientations  can work well with innovation and adaptations of pre-existing ideas).
+ All user interfaces have to do with different learning style preferences. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation with a preference to process thoughts, concepts, notes and files through relationship links and associations, not through discrete unites. I do like archiving some things in hierarchies but designs with sequential orientations tend to interfere, for me, with original creative thinking and research, (even while working with sequential cognitive style orientations can work well for me with innovation and adaptations of pre-existing ideas).
    
    <br/><br/> 
 
@@ -163,7 +163,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 <br/><br/> 
 
 # <a name="Sequential-Orientations-And-Innovation"></a>Sequential Orientations And Innovation
- ## 6. (even while sequential cognitive style orientations can work well with innovation and adaptations of pre-existing ideas).
+ ## 6. (even while working with sequential cognitive style orientations can work well for me with innovation and adaptations of pre-existing ideas).
 Full [Conversational-Paragraph](#Conversational-Paragraph) 
 
  Sequential orientations and applications and functions designed on the principle of sequential orientations can, however, naturally allow or support one to produce adaptive, innovative thought, where the foundational concepts and designs are already a given.
