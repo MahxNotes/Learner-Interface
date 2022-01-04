@@ -17,7 +17,7 @@
 > 4. [...archiving some things in hierarchies](#4.-I-do-like-archiving-some-things-in-hierarchies)    
 > 5. (interference) with original creative thinking and research    
 > 6.
-[...archiving some things in hierarchies](#4.-I-do-like-archiving-some-things-in-hierarchies)   
+
 
  # 1. All user interfaces have to do with different learning style preferences.
 
@@ -128,7 +128,7 @@ This makes people with a natural dispositon toward learning with a global oreint
  Very slowly productivity apps are starting to appear that are beginning to be supportive of learning styles with global orientations. A few apps are even incorporating some elements and functions that support an organic learning style. There is quite a way to go.
 
 
-
+(#4.-I-do-like-archiving-some-things-in-hierarchies)   
  (#4.-I-do-like-archiving-some-things-in-hierarchies)  
 
  Every aspect and function related to learning has its own characteristics that give it a greater affinity, and therefore facility, toward being approached by one of the four learning styles.
