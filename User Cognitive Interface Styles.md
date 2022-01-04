@@ -88,7 +88,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  ## 2. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style.
 Full [Conversational-Paragraph](#Conversational-Paragraph) 
 
- The digital computer is designed according to linear sequential learning principles. Microsoft, the first most successful user interface followed suit and built its interface in line with its linear sequential software.
+ The digital computer is designed according to linear sequential learning principles. Microsoft, the first highly successful user interface followed suit and built its interface in line with its linear sequential software.
 
  Apple began the same but explored toward sequential/global and global/sequential user interface design elements.
  @@ -76,34 +68,32 @@ The absence from structurally inherent backlinks in the present internet/web inf
