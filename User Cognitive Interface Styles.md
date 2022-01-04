@@ -110,7 +110,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
  Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
-
+ 
  ### [S/G](#(S/G)) can be thought of as <a name="The-Lion-rule"></a>gsequentially assessing for the purpose of globally acting in a cognitive process.
 
  ### *Laterally Explorative*
