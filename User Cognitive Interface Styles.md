@@ -21,7 +21,7 @@
 > 6. [Sequential-Orientations-And-Innovation](#Sequential-Orientations-And-Innovation)  
 > 7. [End-And-Beginning-Thoughts](#End-And-Beginning-Thoughts)  
  
-Full [Conversational-Paragraph](#Conversational-Paragraph) 
+> Full [Conversational-Paragraph](#Conversational-Paragraph) 
    
 <br/><br/> 
 <br/><br/> 
