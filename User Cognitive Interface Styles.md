@@ -100,9 +100,9 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
 
 
- ### [G/S](#(G/S)) can be thought of as
+ ### [G/S](#(G/S)) can be thought of as <a name="globally viewing, sequentially acting"></a> in a cognitive process.
 
- ### <a name="The-Eagle-rule"></a>*Applicative* 
+ ### *Applicative* 
 
  Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
