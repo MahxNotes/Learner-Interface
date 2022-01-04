@@ -77,7 +77,7 @@
  Of course there are objective reasons for the use of wide or narrow lenses. Just as this is true in framing pictures with a camera, it is true in framing learning challenges with the mind. Still, different people have different preferences which will come strongly into play in many different situations. One of those will likely be in choosing productivity apps.
 
 
-# <a name="Linear-Sequential"></a>Linear-Sequential
+# <a name="Linear-Sequential"></a>Linear Sequential
  ## 2. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style.
 
  The digital computer is designed according to linear sequential learning principles. Microsoft, the first most successful user interface followed suit and built its interface in line with its linear sequential software.
