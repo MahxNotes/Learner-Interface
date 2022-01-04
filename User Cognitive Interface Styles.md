@@ -128,9 +128,9 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
 ### [G/G](#(G/G)) can be thought of as  <a name="The-Primate-rule"></a>globally oriented for the purpose of globally assessing and analyzing the next best balanced step in a cognitive process.
 
- ### *Organic*
+ ### *Essence Organic*
  
- Think: the primate senses the organic relationships surrounding her, weighs her balances, swings into action.
+ Think: the primate senses the organic relationships surrounding her, weighs her balances, determines the essence of the situation, swings into action.
  
  
  
