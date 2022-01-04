@@ -153,7 +153,7 @@ This makes people with a natural dispositon toward learning with a global oreint
  For someone with an organic learning style, a global orientation and using associative processing, to be creative and to generate original thinking means to be learing style true and consistent. Trying to use productivity apps and organizational methods that are designed on sequential, reductionist, principles not only does not help or support organic creative and original thought, it hinders it.
 
 
-Sequential-Orientations-And-Innovation
+
 # <a name="Sequential-Orientations-And-Innovation"></a>Sequential-Orientations-And-Innovation    
  ## (even while they can work with innovation and adaptations of pre-existing ideas).
 
@@ -163,9 +163,8 @@ Sequential-Orientations-And-Innovation
  END OF COMMENTS ON THE CONVERSATIONAL PARAGRAPH
  
  
- 
- # <a name="End-And-Beginning-Thoughts"></a>End-And-Beginning-Thoughts    
- # End Thoughts and Beginning Thoughts On User Learning Styles
+ # <a name="End-And-Beginning-Thoughts"></a>End-And-Beginning-Thoughts
+ ## End Thoughts and Beginning Thoughts On User Learning Styles
  
  The following are end thoughts for this introductory section. They are beginning thoughts for a planned for evaluation of some productivity apps to follow.
 
