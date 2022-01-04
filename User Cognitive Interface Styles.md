@@ -20,7 +20,7 @@
 
 
 # <a name="Interfaces"></a>Interfaces
- # 1. All user interfaces have to do with different learning style preferences.
+ ## 1. All user interfaces have to do with different learning style preferences.
 
  - Learning style preferences in the context of user interface designs for apps and other computer related items are understood in terms of two learning process elements.
  - The first element of the learning process involves a style preference in cognitive orientation to a use challenge — preferences for how a problem or challenge is approached and framed.
@@ -75,7 +75,7 @@
 
 
 # <a name="Linear-Sequential"></a>Linear-Sequential
- # 2. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style.
+ ## 2. Basically all Microsoft products, for example, are built on a linear sequential cognitive organizational style.
 
  The digital computer is designed according to linear sequential learning principles. Microsoft, the first most successful user interface followed suit and built its interface in line with its linear sequential software.
 
@@ -87,7 +87,7 @@
 
 
 # <a name="Organic-Style"></a>Organic-Style
- # 3. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation, and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
+ ## 3. My own cognitive organizational style is highly organic, having a global rather than a sequential orientation, and processing thoughts, concepts, notes and files through relationship links and associations, not through discrete unites.
 
  I will put what this means to me in context, (my global framing orientation), and show how I see my organic style in its relationships with the other styles, (my global, hence organic, processing preference), by summarizing the model.
 
@@ -134,7 +134,7 @@ This makes people with a natural dispositon toward learning with a global oreint
 
 
 # <a name="OArchiving-With-Hierarchies"></a>Archiving-With-Hierarchies
-#4. I do like archiving some things in hierarchies.    
+## 4. I do like archiving some things in hierarchies.    
 
  Every aspect and function related to learning has its own characteristics that give it a greater affinity, and therefore facility, toward being approached by one of the four learning styles.
 
