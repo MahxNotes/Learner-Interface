@@ -70,7 +70,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  
   [The-Primate-rule](#The-Primate-rule) 
 
- - A person may have a preference for approaching and framing a learning challenge with a narrow angle lens, and so have a ***global*** cognitive orientation, while having a preference for organizing the process of the information in a learning challenge with a ***global*** style. The result will be an organic proccessing of the learning challenge, where the relationship between the elements are just as important as the elements themselves.
+ - A person may have a preference for approaching and framing a learning challenge with a wide angle lens, and so have a ***global*** cognitive orientation, while having a preference for organizing the process of the information in a learning challenge with a ***global*** style. The result will be an organic proccessing of the learning challenge, where the relationship between the elements are just as important as the elements themselves.
 
  - Think of how a primate physically senses everything within its sphere of travel. For the primate, leaning is learning to know its place and position in the whole sphere of its environment. It is through the wide focus of awareness and everything within that awareness being assessed in terms of their relationships that the subject of the learning challenge that the primate faces is understood in its essence and balance.
 
