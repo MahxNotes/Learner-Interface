@@ -109,7 +109,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  
  It can be characterized as
 
- ### *Background Applicative* 
+ ### *Background Applicative* or *Vision Application*
 
  Think:  The eagle overviews the scene, assesses it, then applies her assessment.
 
@@ -118,7 +118,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  
  It can be characterized as
 
- ### *Laterally Explorative*
+ ### *Laterally Explorative* or *Opportunity Discerning*
 
  Think: The lion surveys her environment, explores her options, takes opportunistic action.
 
@@ -128,7 +128,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
  
  It can be characterized as
 
- ### *Linearly Deductive*
+ ### *Linearly Deductive* or *Linear Sequential*
 
  Think: the Ox takes stock of her postion, deduces her most effiecint and effective path, takes the first step.
 
@@ -137,7 +137,7 @@ Full [Conversational-Paragraph](#Conversational-Paragraph)
 
 It can be characterized as
 
- ### *Essence Organic*
+ ### *Organic Essence* or *Process Balancing*
  
  Think: the primate senses the organic relationships surrounding her, weighs her balances, determines the essence of the situation, swings into action.
  
